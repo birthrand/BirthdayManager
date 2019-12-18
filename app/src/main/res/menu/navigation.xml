@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/person_add"
+        android:icon="@drawable/ic_person_add"
+        android:title="Add"/>
+
+    <item
+        android:id="@+id/import_contacts"
+        android:icon="@drawable/ic_import_contacts"
+        android:title="Import Contacts"/>
+
+    <item
+        android:id="@+id/birthday_list"
+        android:icon="@drawable/ic_birthday_list"
+        android:title="Birthday List"/>
+
+
+</menu>
