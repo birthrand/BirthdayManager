@@ -4,15 +4,27 @@ This repository contains the Android Studio project of the Birthday Manager Appl
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Screenshots](#screenshots)
 - [Features](#features)
 - [Feedback](#feedback)
 - [Author](#author)
 
 ## Introduction
 
-The Birthday Manager allows you to save the contacts and birthdates of friends and family. Then you can choose when to be reminded to send a message or give them a call.
+The Birthday Manager allows you to save the contacts and birthdates of friends and family. Then you can choose when to be reminded to send a message or give them a call. 
 
 **Developed for Android operating sysrem**
+
+## Screenshots
+
+The Birthday Manager user interface mainly features the main page which shows a brief tutorial on how to use the app, the Add New page, for adding contacts to the birthday list, and the "Birthday List" page for viewing the contacts added to the list. 
+
+<p align="center">
+  <img src = "mainPage.png" width=350>
+</p>
+<p align="center">
+  <img src = "addPage.png" width=350>
+</p>
 
 <p align="center">
   <img src = "afterDelete.png" width=350>
