@@ -15,7 +15,7 @@ The Birthday Manager allows you to save the contacts and birthdates of friends a
 **Developed for Android operating sysrem**
 
 <p align="center">
-  <img src = "http://i.imgur.com/HowF6aM.png" width=350>
+  <img src = "afterDelete.png" width=350>
 </p>
 
 ## Features
