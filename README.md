@@ -21,10 +21,10 @@ The Birthday Manager allows you to save the contacts and birthdates of friends a
 The Birthday Manager user interface is an Android application which mainly a main page, which shows a brief tutorial on how to use the app, the Add New page, for adding contacts to the birthday list, and the "Birthday List" page for viewing the contacts added to the list. 
 
 <p align="center">
-  <img src = "mainPage.png" width=350>
+  <img src = "mainpage.png" width=350>
 </p>
 <p align="center">
-  <img src = "addPage.png" width=350>
+  <img src = "addpage.png" width=350>
 </p>
 
 <p align="center">
